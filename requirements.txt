@@ -1,0 +1,7 @@
+pygame
+numpy
+pyxdf
+numba
+scipy
+scikit-learn
+pylsl
