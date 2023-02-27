@@ -1,12 +1,12 @@
 # A-maze-ing
 An all-in-python BCI-integrated video game built for BCI GameJam 2023
 
-This is an all-in-python BCI-integrated game. We have used the game engine pygame and require a stream of signal from SSVEP acquired through lab streaming layer (pylsl) which interfaces to any compatible EEG headset. We used an 8 channel headset for our demo (video attached). 
+This is an all-in-python BCI-integrated game. We have used the game engine pygame and require a stream of signal from SSVEP acquired through lab streaming layer (pylsl) which interfaces to any compatible EEG headset. We used an 8 channel headset for our [demo video](https://youtu.be/a3sqAq9Uq8U).
 
 For testing without a live stream, run the following command in a new terminal to use a looped test data.
 > python send_data.py
 
-To play the game, run the main file [Strean should be on before running this]
+To play the game, run the main file [Stream should be on before running this]
 > python main.py
 
 # Theme
