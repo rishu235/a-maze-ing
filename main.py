@@ -1,3 +1,4 @@
+# Authors: Rishabh Shukla, Balarama Sridhar Dwadasi, Anupam Bisht
 # The game requires a stream of signal
 # Run the following command in a new terminal if no signal exists
 # python send_data.py
